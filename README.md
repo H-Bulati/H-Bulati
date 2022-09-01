@@ -13,7 +13,7 @@
 
 <!--<h3 align="left">Connect with me:</h3> -->
 <!-- <h3 align="left">My Codewars profile: </h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"> </p> -->-0
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"> </p> -->
 <p align="left">
 </p>
 
